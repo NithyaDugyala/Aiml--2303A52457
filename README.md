@@ -1,1 +1,1 @@
-[Lab1]# Aiml--2303A52457
+[Lab2] Aiml_LAB_2.ipynb
