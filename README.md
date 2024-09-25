@@ -9,3 +9,5 @@
 [Lab5] https://github.com/NithyaDugyala/Aiml--2303A52457/blob/main/AIML_a_5.ipynb
 
 [Lab6] https://github.com/NithyaDugyala/Aiml--2303A52457/blob/main/AIML_6.ipynb
+
+[Lab7] https://github.com/NithyaDugyala/Aiml--2303A52457/blob/main/AIML_lab_7.ipynb
