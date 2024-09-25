@@ -7,3 +7,5 @@
 [Lab4] https://github.com/NithyaDugyala/Aiml--2303A52457/blob/main/AIML_LAB_4_Linear_Regression.ipynb
 
 [Lab5] https://github.com/NithyaDugyala/Aiml--2303A52457/blob/main/AIML_a_5.ipynb
+
+[Lab6] https://github.com/NithyaDugyala/Aiml--2303A52457/blob/main/AIML_6.ipynb
