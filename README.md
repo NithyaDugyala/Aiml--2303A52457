@@ -12,4 +12,6 @@
 
 [Lab7] https://github.com/NithyaDugyala/Aiml--2303A52457/blob/main/AIML_lab_7.ipynb
 
+[Lab8] https://github.com/NithyaDugyala/Aiml--2303A52457/blob/main/Aiml_Lab_8.ipynb
+
 [Lab10] https://github.com/NithyaDugyala/Aiml--2303A52457/blob/main/AIML_LAB_10.ipynb
